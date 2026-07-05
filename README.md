@@ -131,7 +131,7 @@ export_csv(hk.get_holidays(2026), "hk_holidays_2026.csv")
 ## Development
 
 ```bash
-git clone https://github.com/funglkf00/hongkong_holiday
+git clone https://github.com/funglkfcc/hongkong_holiday
 cd hongkong_holiday
 pip install -e .[dev]
 pytest

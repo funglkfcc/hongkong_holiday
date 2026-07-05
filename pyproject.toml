@@ -37,7 +37,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/funglkf00/hongkong_holiday"
+Homepage = "https://github.com/funglkfcc/hongkong_holiday"
 "Data Source" = "https://data.gov.hk/en-data/dataset/hk-effo-statistic-cal"
 
 [tool.hatch.build.targets.wheel]
