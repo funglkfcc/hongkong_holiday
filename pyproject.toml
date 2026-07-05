@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "hongkong_holiday"
-version = "1.0.0"
+version = "1.0.1"
 description = "Hong Kong public holidays from GovHK open data, with algorithmic fallback for historical and far-future years."
 readme = "README.md"
 license = { file = "LICENSE" }

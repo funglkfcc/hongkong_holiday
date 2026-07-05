@@ -21,7 +21,7 @@ from .core import (
 )
 from .utils import ensure_date, export_csv, parse_ical_date, weekday_number
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "HKHolidays",
